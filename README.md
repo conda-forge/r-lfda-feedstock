@@ -1,11 +1,11 @@
-About r-lfda
-============
+About r-lfda-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lfda-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/terrytangyuan/lfda
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lfda-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for performing and visualizing Local Fisher Discriminant Analysis(LFDA), Kernel Fisher Discriminant Analysis(KLFDA), and Semi-supervised Local Fisher Discriminant Analysis(SELF).
 
